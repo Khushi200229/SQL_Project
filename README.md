@@ -1,2 +1,2 @@
 # SQL_Project
-This project help the store understand its business growth by answering easy to advanced questions.
+This project helps the store to understand its business growth by answering easy to advance questions.
